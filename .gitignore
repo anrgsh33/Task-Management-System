@@ -45,6 +45,7 @@ release.properties
 .sts4-cache
 
 ### IntelliJ IDEA ###
+.idea/
 crud/.idea
 *.iws
 *.iml
